@@ -1,0 +1,12 @@
+{
+	"name": "Mydatalake",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://myresourcename.dfs.core.windows.net",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDVFOEIwRkQ1LTA5RjEtNDVBMy1CMEE0LUIzMjVDREU5RUIyMl8zNWE0ZWQyZi0yMjY5LTRhMzItYmVhYi1hNmI1MTNhMWFkZGQiDQp9"
+		}
+	}
+}
