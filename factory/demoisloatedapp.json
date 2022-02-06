@@ -1,0 +1,9 @@
+{
+	"name": "demoisloatedapp",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a4773b5-627a-4dc9-80c7-70b027b4db64",
+		"tenantId": "111c531b-e6a7-4a30-a5d7-5e4774efc7cf"
+	}
+}
